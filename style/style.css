@@ -1,0 +1,24 @@
+.logins-container {
+    margin-top: 50px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #0673ab;
+    padding: 20px;
+}
+
+.div-btn {
+    margin-top: 20px;
+    text-align: center;
+}
+
+footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    height:50px;
+}
+
+.session-name {
+    margin-left: 75%;
+}
